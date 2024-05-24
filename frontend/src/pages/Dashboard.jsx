@@ -18,7 +18,7 @@ const Dashboard = () => {
 
     return (
         <div>
-            <h1 className="text-2xl font-bold mb-4">Dashboard</h1>
+            <h1 className="text-2xl font-bold mb-4">Dashjhghjfboard</h1>
             {role === '1' && <p>Contenido para administradores</p>}
             {role === '2' && <p>Contenido para usuarios regulares</p>}
             {role === '3' && <p>Contenido para profesionales</p>}
